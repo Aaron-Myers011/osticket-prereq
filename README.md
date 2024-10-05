@@ -186,10 +186,94 @@ Go back to the IIS window and restart IIS on the right side under actions
 <br />
 <p>
 <br /><p>
+<img src="https://i.imgur.com/PfUFztr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a new File Exploror and navigate to the Cdrive, Follow the bread crumbs below and Rename "ost-sampleconfig.php" to "ost-config.php"
+  Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+</p>
+<br /><p>
+<img src="https://i.imgur.com/6f0wNZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once Renamed. Right click and open Properties. Click Security, Advanced 
+</p>
+<br /><p>
+<img src="https://i.imgur.com/omFACct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on "disable Inheritance" then "Remove all"
+</p>
+<br /><p>
+<img src="https://i.imgur.com/QPPj3PL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once there are no remaining permissions click add, Select Princaple, in the new pop up type "everyone" then check names. (This should add an underline confirming users). Click Okay.
+</p>
+<br /><p>
+<img src="https://i.imgur.com/C6BSA7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under Basic permissions enable "Full Control" then okay
+  
+  Click Apply and okay on the next page.
+</p>
+<br />
+</p>
+<br /><p>
+<img src="https://i.imgur.com/NedCIdQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go back to the Downloads folder and Install " HeidiSQL_12.3.0.6589_Setup" and Launch it once complete
+</p>
+<br /><p>
+<img src="https://i.imgur.com/yvn6BNe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In HeidiSQL Click on "new" for User and Password use "root" this is the password set earlier when we set up SQL.
+</p>
+<br /><p>
 <img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /><p>
+<img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+</p>
+<br /><p>
+<img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /><p>
+<img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /><p>
+<img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /><p>
+<img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 </p>
 <br /><p>
 <img src="https://i.imgur.com/7by6shE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
