@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Clean VM Windows 10 work space for testing purposes
+- Clean VM Windows 10 workspace for testing purposes
 - Download and have available this folder of needed software: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
   
 <h2>Installation Steps</h2>
@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/QMWUBCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Search the start menu and open Controll Pannel
+Search the start menu and open Control Pannel
 </p>
 <br />
 
@@ -99,7 +99,7 @@ Download and install "rewrite_amd64_en-US"
 <img src="https://i.imgur.com/SXOdZdS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the C drive and create a folder labled "PHP"
+Navigate to the C drive and create a folder labeled "PHP"
 </p>
 <br />
 <p>
@@ -189,7 +189,7 @@ Go back to the IIS window and restart IIS on the right side under actions
 <img src="https://i.imgur.com/PfUFztr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open a new File Exploror and navigate to the Cdrive, Follow the bread crumbs below and Rename "ost-sampleconfig.php" to "ost-config.php"
+Open a new File Explorer and navigate to the Cdrive, Follow the bread crumbs below and Rename "ost-sampleconfig.php" to "ost-config.php"
   Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
@@ -211,7 +211,7 @@ Click on "disable Inheritance" then "Remove all"
 <img src="https://i.imgur.com/QPPj3PL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once there are no remaining permissions click add, Select Princaple, in the new pop up type "everyone" then check names. (This should add an underline confirming users). Click Okay.
+Once there are no remaining permissions click add, Select Principle, in the new pop up type "everyone" then check names. (This should add an underline confirming users). Click Okay.
 </p>
 <br /><p>
 <img src="https://i.imgur.com/C6BSA7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -239,7 +239,7 @@ In HeidiSQL Click on "new" for User and Password use "root" this is the password
 <img src="https://i.imgur.com/p2DdKLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the new window that opens Right Click Unnammed, Create new, then Database
+On the new window that opens Right Click Unnamed, Create new, then Database
 </p>
 <br /><p>
 <img src="https://i.imgur.com/WgccRil.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
